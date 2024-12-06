@@ -4,8 +4,8 @@
             <div class="row">
                 <div class="col-12 text-center">
                     Copyright &copy; <script>document.write(new Date().getFullYear());</script> {{ $profil->nama }} <br>
-                    SIDESKEL Dikembangkan oleh <strong> TIM IT KKN-PPM UNG, UGM, UMGo 2019</strong> <br>
-                    Didukung oleh <strong> Dinas Komunikasi dan Informatika Kabupaten Gorontalo </strong>
+                    SISTEM INFORMASI DESA Dikembangkan oleh <strong> TIM KKT 141 </strong> <br>
+                    Didukung oleh <strong> UNIVERSITAS SAM RATULANGI</strong>
                 </div>
             </div>
         </div>

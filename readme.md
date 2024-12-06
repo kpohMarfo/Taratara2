@@ -2,17 +2,17 @@
 
 ## Tentang
 
-Disetiap kelurahan & desa tentunya punya potensinya masing-masing yang tentunya sangat bermanfaat jika dikembangkan namun kadang informasi mengenai potensi desa/kelurahan tersebut hanya sebatas warga desa/kelurahan saja, padahal jika informasi tersebut sampai ke pihak yang tepat maka ada kemungkinan potensi desa  bisa dikembangkan lebih lagi.
-Selain itu juga mengenai keterbukaan informasi desa/kelurahan di Indonesia sangat minim padahal, keterbukaan informasi desa/kelurahan itu sangat penting untuk menghindari hal-hal yang di dinginkan seperti korupsi dana desa misalnya, kemudian selain itu kondisi demografis penduduk, fasilitas, infrastruktur, sampai dengan sejarah maupun kondisi desa/kelurahan juga bisa di publikasikan dengan jelas kepada masyarakat, sehingga membantu aparat desa untuk mengelola informasi yang menyangkut dengan pengelolaan desa/kelurahan, dengan alasan itulah maka Sistem Informasi Desa/Kelurahan (SIDESKEL) ini dikembangkan. SIDESKEL dikembangkan menggunakan framework Laravel 5.8.
+Disetiap  & desa tentunya punya potensinya masing-masing yang tentunya sangat bermanfaat jika dikembangkan namun kadang informasi mengenai potensi desa/ tersebut hanya sebatas warga desa/ saja, padahal jika informasi tersebut sampai ke pihak yang tepat maka ada kemungkinan potensi desa  bisa dikembangkan lebih lagi.
+Selain itu juga mengenai keterbukaan informasi desa/ di Indonesia sangat minim padahal, keterbukaan informasi desa/ itu sangat penting untuk menghindari hal-hal yang di dinginkan seperti korupsi dana desa misalnya, kemudian selain itu kondisi demografis penduduk, fasilitas, infrastruktur, sampai dengan sejarah maupun kondisi desa/ juga bisa di publikasikan dengan jelas kepada masyarakat, sehingga membantu aparat desa untuk mengelola informasi yang menyangkut dengan pengelolaan desa/, dengan alasan itulah maka Sistem Informasi Desa/ (SISTEM INFORMASI DESA) ini dikembangkan. SISTEM INFORMASI DESA dikembangkan menggunakan framework Laravel 5.8.
 
 ## Tujuan 
 
-- Menjadi platform resmi desa/kelurahan untuk menunjang penyebaran informasi kepada publik secara cepat & akurat. (Tentang, Lembaga, Fasilitas & Dokumen)
-- Memfasilitasi aparat desa/kelurahan dalam hal transparansi keuangan (belanja & pendapatan) desa/kelurahan. (Keuangan)
-- Membantu mempromosikan desa/kelurahan kepada publik lewat artikel yang dipublish oleh masyarakat. (Artikel)
-- Memudahkan aparat desa/kelurahan dalam mengelola data penduduk. (Penduduk)
-- Memudahkan masyarakat mengenai informasi pelayanan yang ada di kantor desa/kelurahan. (Pelayanan)
-- Memfasilitasi desa/kelurahan dalam hal dokumentasi & publikasi kegiatan masyarakat. (Kegiatan)
+- Menjadi platform resmi desa/ untuk menunjang penyebaran informasi kepada publik secara cepat & akurat. (Tentang, Lembaga, Fasilitas & Dokumen)
+- Memfasilitasi aparat desa/ dalam hal transparansi keuangan (belanja & pendapatan) desa/. (Keuangan)
+- Membantu mempromosikan desa/ kepada publik lewat artikel yang dipublish oleh masyarakat. (Artikel)
+- Memudahkan aparat desa/ dalam mengelola data penduduk. (Penduduk)
+- Memudahkan masyarakat mengenai informasi pelayanan yang ada di kantor desa/. (Pelayanan)
+- Memfasilitasi desa/ dalam hal dokumentasi & publikasi kegiatan masyarakat. (Kegiatan)
 
 ## Mind Mapping
 
@@ -28,4 +28,4 @@ User: Admin
 
 ## Instalasi
 
-Karena SIDESKEL dikembangkan dengan Laravel 5.8 silahkan jalankan dengan perintah php artisan migrate:fresh --seed pada terminal komputer anda.
+Karena SISTEM INFORMASI DESA dikembangkan dengan Laravel 5.8 silahkan jalankan dengan perintah php artisan migrate:fresh --seed pada terminal komputer anda.

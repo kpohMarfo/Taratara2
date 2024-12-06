@@ -230,7 +230,7 @@ class PendudukController extends Controller
         // header
         $pdf->SetFont('Arial', 'B', 15);
         $pdf->Image(asset('assets-dashboard/images/' . $profil->logo), 140, null, 20);
-        $pdf->Cell(0, 10, "SISTEM INFORMASI DESA & KELURAHAN", 0, 2, 'C');
+        $pdf->Cell(0, 10, "SISTEM INFORMASI DESA & ", 0, 2, 'C');
         $pdf->Cell(0, 10, $profil->nama, 0, 2, 'C');
         $pdf->SetFont('Arial', '', 12);
         $pdf->Cell(0, 10, "Alamat : ".$profil->alamat." | Telepon : ".$profil->telepon." | Email : ".$profil->email, 'B', 2, 'C');
@@ -342,7 +342,7 @@ class PendudukController extends Controller
         // header
         $pdf->SetFont('Arial', 'B', 13);
         $pdf->Image(asset('assets-dashboard/images/' . $profil->logo), 100, null, 15);
-        $pdf->Cell(0, 10, "SISTEM INFORMASI DESA & KELURAHAN", 0, 2, 'C');
+        $pdf->Cell(0, 10, "SISTEM INFORMASI DESA & ", 0, 2, 'C');
         $pdf->Cell(0, 7, $profil->nama, 0, 2, 'C');
         $pdf->SetFont('Arial', '', 10);
         $pdf->Cell(0, 7, "Alamat : ".$profil->alamat." | Telepon : ".$profil->telepon." | Email : ".$profil->email, 'B', 2, 'C');

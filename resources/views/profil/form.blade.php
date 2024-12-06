@@ -4,7 +4,7 @@
 @endif
 <div class="form-group">
     <label class="control-label">Nama</label>
-        {!! Form::text('nama', null, ['class' => 'form-control', 'placeholder' => 'Contoh: Desa ABC atau Kelurahan DEF']) !!}
+        {!! Form::text('nama', null, ['class' => 'form-control', 'placeholder' => 'Contoh: Desa ABC atau  DEF']) !!}
 </div>
 <div class="form-group has-success">
     <label class="control-label mb-1">Alamat</label>

@@ -8,7 +8,7 @@ class LembagaTableSeeder extends Seeder
     {
         $data = [
             [
-                'nama' => 'Pemerintah Kelurahan', 
+                'nama' => 'Pemerintah ', 
                 'deskripsi' => 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque, illum? Expedita aliquam sint aspernatur quae, voluptatum doloremque perspiciatis ipsum laboriosam pariatur error tenetur officiis alias, voluptas quibusdam temporibus modi? Numquam.Soluta autem, commodi sed tenetur vero quia sequi doloribus totam. Accusantium explicabo numquam debitis magni obcaecati odio dicta hic soluta excepturi maiores provident, dolorum molestias qui aut ut eligendi at.',
                 'logo' => 'LOGOKABGOR.png',
                 'created_at' => now(),

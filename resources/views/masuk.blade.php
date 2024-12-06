@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Masuk SIDESKEL | Sistem Informasi Desa & Kelurahan</title>
+	<title>Masuk SISTEM INFORMASI DESA | Sistem Informasi Desa  </title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="icon" type="image/png" href="{{ asset('assets-dashboard/images/logo-sideskel.png') }}">
+	<link rel="icon" type="image/png" href="{{ asset('assets-dashboard/images/TARATARA.png') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('assets-beranda/assets/vendor/bootstrap/css/bootstrap.min.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('assets-beranda/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('assets-beranda/assets/fonts/iconic/css/material-design-iconic-font.min.css') }}">
@@ -22,10 +22,11 @@
 		<div class="container-login100">
 			<div class="wrap-login100">
 					<span class="login100-form-title p-b-20">
-                        <img src="{{ asset('assets-dashboard/images/logo-sideskel.png') }}" class="image" width="100">
+                        <img src="{{ asset('assets-dashboard/images/TARATARA.png') }}" class="image" width="100">
 					</span>
 					<span class="login100-form-title p-b-26">
-						MASUK
+						PEMERINTAH <br>
+						TARATARA 2
 					</span>
 					@if($errors->any())
 					<div class="content text-center">

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>{{ $profil->nama }} &mdash; Sistem Informasi Desa & Kelurahan</title>
+    <title>{{ $profil->nama }} &mdash; Sistem Informasi Desa </title>
     <link rel="icon" type="image/png" href="{{ asset('assets-dashboard/images/'.$profil->logo) }}">
 
     @if(Request::segment(2) === 'profil')
@@ -120,7 +120,7 @@
                 <h5 class="ml-2 mt-2 site-logo text-white d-none d-xl-inline-block text-uppercase" style="text-align: left;">
                 PEMERINTAH {{ $profil->nama }}
                 <br>
-                KECAMATAN LIMBOTO, GORONTALO
+                KECAMATAN TOMOHON BARAT, SULAWESI UTARA
                 </h5>
               </a>
             </div>
@@ -214,14 +214,14 @@
             <br>
             Copyright &copy; <script>document.write(new Date().getFullYear());</script>  <strong class="font-weight-bold">{{ $profil->nama }}</strong>
 
-            <br> SIDESKEL Dikembangkan oleh <strong class="font-weight-bold">TIM IT KKN-PPM UGM, UNG, UMGo 2019 </strong>
-            <br> Didukung oleh <strong class="font-weight-bold">Dinas Komunikasi dan Informatika Kabupaten Gorontalo </strong>
+            <br> SISTEM INFORMASI DESA Dikembangkan oleh <strong class="font-weight-bold">TIM KKT 141 </strong>
+            <br> Didukung oleh <strong class="font-weight-bold">UNIVERSITAS SAM RATULANGI </strong>
             </p>
           </div>
           
           <div class="col-md-6">
             <h5>Lokasi </h5>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63833.414100565715!2d122.9484132327109!3d0.61513371305782!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32792e74a1a437d1%3A0xf71f75fa36a24350!2sKayubulan%2C+Limboto%2C+Gorontalo!5e0!3m2!1sen!2sid!4v1563680141208!5m2!1sen!2sid" style="width:100%; height:300px;" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2112.973057403872!2d124.7775854509457!3d1.3186456525852734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32876c03edcc6b17%3A0x91ca5129d5154b17!2sKantor%20%20Taratara%20Dua!5e0!3m2!1sid!2sid!4v1733124300103!5m2!1sid!2sid"  style="width:100%; height:300px;" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
         </div>
       </div>

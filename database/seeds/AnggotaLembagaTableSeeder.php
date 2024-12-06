@@ -10,7 +10,7 @@ class AnggotaLembagaTableSeeder extends Seeder
         $data = [
             [
                 'nama' => 'Adnan Kasim', 
-                'jabatan' => 'Kepala Kelurahan',
+                'jabatan' => 'Kepala ',
                 'foto' => 'default.jpg',
                 'id_lembaga' => '1',
                 'created_at' => now(),
@@ -18,7 +18,7 @@ class AnggotaLembagaTableSeeder extends Seeder
             ],
             [
                 'nama' => 'Mohammad Fikri Luawo', 
-                'jabatan' => 'Sekretaris Kelurahan',
+                'jabatan' => 'Sekretaris ',
                 'foto' => 'default.jpg',
                 'id_lembaga' => '1',
                 'created_at' => now(),
@@ -26,7 +26,7 @@ class AnggotaLembagaTableSeeder extends Seeder
             ],
             [
                 'nama' => 'Mohammad Ilham Hamzah', 
-                'jabatan' => 'Bendahara Kelurahan',
+                'jabatan' => 'Bendahara ',
                 'foto' => 'default.jpg',
                 'id_lembaga' => '1',
                 'created_at' => now(),

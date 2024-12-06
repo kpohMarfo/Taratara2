@@ -15,16 +15,16 @@
   --green: #28a745;
   --teal: #20c997;
   --cyan: #17a2b8;
-  --white: #fff;
+  --white: #302b2b;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #98ccd3;
+  --primary: #ffffff;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
   --warning: #eec60a;
   --danger: #f23a2e;
-  --light: #f8f9fa;
+  --light: #343638;
   --dark: #343a40;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
@@ -60,9 +60,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #000000;
   text-align: left;
-  background-color: #fff; }
+  background-color: #ffffff; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -4988,7 +4988,7 @@ button.close {
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #98ccd3 !important; }
+  background-color: #6c757d !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
@@ -5012,7 +5012,7 @@ button.bg-success:focus {
   background-color: #1e7e34 !important; }
 
 .bg-info {
-  background-color: #17a2b8 !important; }
+  background-color: #aababa !important; }
 
 a.bg-info:hover, a.bg-info:focus,
 button.bg-info:hover,
@@ -7327,7 +7327,7 @@ a.text-dark:hover, a.text-dark:focus {
 /* Base */
 body {
   line-height: 1.7;
-  color: gray;
+  color: black;
   font-weight: 300;
   font-size: 1rem;
   font-family: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }

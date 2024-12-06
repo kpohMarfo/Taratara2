@@ -2,9 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ $profil->nama }} &mdash; Sistem Informasi Desa & Kelurahan</title>
+    <title>{{ $profil->nama }} &mdash; Sistem Informasi Desa  </title>
     <meta name="description" content="{{ $profil->deskripsi }}">
-    <meta name="keywords" content="Sistem Informasi Desa dan Kelurahan {{ $profil->nama }}">
+    <meta name="keywords" content="Sistem Informasi Desa dan  {{ $profil->nama }}">
     <meta name="author" content="{{ $profil->nama }}">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -30,7 +30,8 @@
         font-family: 'Montserrat', sans-serif;
       }
       a.keu:hover{
-        background-color:#7ecfc0;
+        background-color:#f0f0f0;
+        
       }
     </style>
   </head>
@@ -62,7 +63,7 @@
                 <h5 class="ml-2 mt-2 site-logo text-white d-none d-xl-inline-block text-uppercase" style="text-align: left;">
                 PEMERINTAH {{ $profil->nama }}
                 <br>
-                KECAMATAN LIMBOTO, GORONTALO
+                KECAMATAN TOMOHON BARAT, SULAWESI UTARA
                 </h5>
               </a>
             </div>
@@ -145,7 +146,7 @@
       <div class="container">
         <div class="row align-items-center text-center justify-content-center">
           <div class="col-md-12">
-            <span class="sub-text">Sistem informasi desa & kelurahan</span>
+            <span class="sub-text">Sistem informasi desa  </span>
             <h1 class="text-uppercase"> {{ $profil->nama }} </h1>
             <span class="sub-text"> {{ $profil->alamat }} </span>
           </div>
@@ -167,13 +168,13 @@
           <div class="col-lg-6 col-md-12 mb-3 mb-lg-0 text-center">
             <div class="media custom-media">
               <div class="media-body text-center">
-                <img src="{{ asset('assets-beranda/images/ayah-kayubulan.png') }}" class="img img-responsive shadow" width="300">
+                <img src="{{ asset('assets-beranda/images/lurah.png') }}" class="img img-responsive shadow" width="300">
                 <h4 class="mt-3 font-weight-bold">
-                    HALID KADIR, S.IP
+                Ebenhaezer AR Rares.SE
                 </h4>
                 <hr>
                 <h4 >
-                    LURAH KAYUBULAN
+                    Kepala Desa TARATARA 2
                 </h4>
               </div>
             </div>
@@ -451,7 +452,7 @@
       </div>
     </div>
 
-    <div class="site-section" data-aos="zoom-in">
+    <!-- <div class="site-section" data-aos="zoom-in">
       <div class="container" >
         <div class="row">
           <div class="col-12 text-center">
@@ -495,7 +496,7 @@
                         </div>
           </a>
           </div>
-          
+           -->
 
         </div>
         
@@ -550,15 +551,15 @@
             <br>
             Copyright &copy; <script>document.write(new Date().getFullYear());</script>  <strong class="font-weight-bold">{{ $profil->nama }}</strong>
 
-            <br>Dikembangkan oleh <strong class="font-weight-bold">TIM IT KKN-PPM UGM, UNG, UMGo 2019 </strong>
-            <br>Didukung oleh <strong class="font-weight-bold">Dinas Komunikasi & Informatika Kabupaten Gorontalo </strong>
+            <br>Dikembangkan oleh <strong class="font-weight-bold">TIM KKT 141 </strong>
+            <br>Didukung oleh <strong class="font-weight-bold">UNIVERSITAS SAM RATULANGI </strong>
             </p>
             
           </div>
           
           <div class="col-md-6">
             <h5>Lokasi </h5>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63833.414100565715!2d122.9484132327109!3d0.61513371305782!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32792e74a1a437d1%3A0xf71f75fa36a24350!2sKayubulan%2C+Limboto%2C+Gorontalo!5e0!3m2!1sen!2sid!4v1563680141208!5m2!1sen!2sid" style="width:100%; height:300px;" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2112.973057403872!2d124.7775854509457!3d1.3186456525852734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32876c03edcc6b17%3A0x91ca5129d5154b17!2sKantor%20%20Taratara%20Dua!5e0!3m2!1sid!2sid!4v1733124300103!5m2!1sid!2sid"  style="width:100%; height:300px;" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
         </div>
       </div>

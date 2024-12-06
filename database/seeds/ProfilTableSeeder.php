@@ -8,7 +8,7 @@ class ProfilTableSeeder extends Seeder
     {
         $data = [
             [
-                'nama' => 'Kelurahan XYZ',
+                'nama' => ' XYZ',
                 'alamat' => 'Kec. ABC, Kab. DEF, Provinsi GHI',
                 'telepon' => '08xx-xxxx-xxxx',
                 'email' => 'contoh@email.com',
